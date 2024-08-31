@@ -1,6 +1,6 @@
 ## Lavanya's First CS 193 Homework
 
-Things I like about `CS 193` :
+Things I like about CS 193:
 
 - The interactive **ice-breakers**
 - Easy and readable slides
