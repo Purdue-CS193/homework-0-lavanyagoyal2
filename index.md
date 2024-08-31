@@ -1,8 +1,10 @@
 ## Lavanya's First CS 193 Homework
 
-Things I like about CS 193:
+Things I like about `CS 193` :
 
-- The interactive ice-breakers
+- The interactive **ice-breakers**
+- Easy and readable slides
+- Learning new _commands_/ _terminal_
   
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
